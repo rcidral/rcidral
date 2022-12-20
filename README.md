@@ -5,6 +5,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rcidral_/)
 
 ![Ricardo Cidral's GitHub stats](https://github-readme-stats.vercel.app/api?username=rcidral&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rcidral&layout=compact&theme=radical&card_width=350px)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
